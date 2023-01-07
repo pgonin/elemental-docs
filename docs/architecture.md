@@ -77,7 +77,7 @@ A MachineInventory has three conditions:
 - `Ready`, which indicates that a machine has been initialized and has no running plans.
 
 #### MachineInventorySelector
-A MachineInventorySelector selects MachineInventories based on applied selectors (usually patter matching on MachineInventory label values).
+A MachineInventorySelector selects MachineInventories based on applied selectors (usually pattern matching on MachineInventory label values).
 
 MachineInventorySelectors have three conditions:
 
